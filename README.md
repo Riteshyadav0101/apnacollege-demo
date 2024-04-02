@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my Git Repository.
 <br>
-Author - Ritesh Yadav
+Author - Ritesh Yadav(sher)
